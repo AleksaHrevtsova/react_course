@@ -1,0 +1,11 @@
+.App {
+  background: black;
+  color: wheat;
+}
+.Navigation-link {
+  color: wheat;
+}
+
+.Navigation-link-active {
+  color: goldenrod;
+}
